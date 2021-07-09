@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Amin Heydari Alashti"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "A backend engineer with a Big Data, Text Mining, IR, and Deep Learning background."
   location         : "Tehran/Iran"
   employer         : 
   pubmed           : ""
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "alashti"
   google_plus      :
   keybase          :
   instagram        :
